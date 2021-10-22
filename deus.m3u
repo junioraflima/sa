@@ -1,0 +1,270 @@
+
+
+# EXTM3U
+
+#EXTINF:-1, GLOBO MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Globo RJ" tvg-logo = "https://imgur.com/5RQ1PxL.png" group-title = "ABERTOS", Globo RJ
+http://live.video.globo.com
+
+#EXTINF: -1 tvg-id = "Globorj.br" tvg-name = "Globo RJ" tvg-logo = "https://imgur.com/5RQ1PxL.png" group-title = "ABERTOS", Globo RJ HD
+http://live.video.globo.com
+
+#EXTINF: -1 tvg-id = "Globorj.br" tvg-name = "Globo RJ" tvg-logo = "https://imgur.com/5RQ1PxL.png" group-title = "ABERTOS", Globo RJ SD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "BandRede.br" tvg-name = "Banda" tvg-logo = "https://imgur.com/HnL2uBA.png" tvg-shift = "0" group-title = " ABERTOS ", banda
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Bandnews.br" tvg-name = "Band News" tvg-logo = "https://imgur.com/WwSAtkh.png" group-title = "ABERTOS", Band News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Tvcultura.br" tvg-name = "Catve (Cultura PR)" tvg-logo = "https://imgur.com/yg60ANb.png" group-title = "ABERTOS", Catve (Cultura PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+
+#EXTINF: -1 tvg-id = "CNNBrasil" tvg-name = "CNN Brasil" tvg-logo = "https://i.imgur.com/iCsbnC8.png" tvg-shift = "0" group-title = "ABERTOS", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF: -1 group-title = "ABERTOS" tvg-id = "RaiNews24" tvg-logo = "https://m3upt.com/logos/Rai-News-24.png", Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF: -1 tvg-id = "FRANÇA 24" tvg-name = "França 24" tvg-logo = "https://imgur.com/Tj0KCYI.png" tvg-shift = "0" group-title = " ABERTOS ", França 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF: -1 tvg-id = "Globorj.br" tvg-name = "Globo RJ" tvg-logo = "https://imgur.com/5RQ1PxL.png" group-title = "ABERTOS", Globo RJ
+http://live.video.globo.com
+
+#EXTINF: -1 tvg-id = "Carregando.br" tvg-name = "Carregando TV" tvg-logo = "https://imgur.com/DAyMXAx.png" tvg-shift = "0" group-title = "ABERTOS", Carregando TV
+https://centurylink.br.cdn.booyah.live/hls/1000021/master_34850987.m3u8
+
+#EXTINF: -1 tvg-id = "Recordnews.br" tvg-name = "Record News" tvg-logo = "https://imgur.com/DRMRf6R.png" tvg-shift = "0" group-title = "ABERTOS", Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF: -1 tvg-id = "Rederecord.br" tvg-name = "Gravar" tvg-logo = "https://imgur.com/ZLgQJeY.png" tvg-shift = "0" group-title = " ABERTOS ", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF: -1 tvg-id = "Redebrasil.br" tvg-name = "Rede Brasil" tvg-logo = "https://imgur.com/ZgnRZ47.png" group-title = "ABERTOS", Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Redetv.br" tvg-name = "RedeTV" tvg-logo = "https://i.imgur.com/hd76Jt4.png" tvg-shift = "0" título do grupo = "ABERTOS", RedeTV! SP
+http://177.20.208.58:8000/play/a03p/index.m3u8
+
+#EXTINF: -1 tvg-id = "101700" tvg-name = "Rewind TV" tvg-logo = "https://imgur.com/fssx3Gh.png" group-title = "ABERTOS", Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "TVGazeta.br" tvg-name = "TV Alternativa (TV Gazeta MA)" tvg-logo = "https://imgur.com/lAXbfuU.png" tvg-shift = "0 "group-title =" ABERTOS ", TV Alternativa (TV Gazeta MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Tvbrasil.br" tvg-name = "TV Brasil" tvg-logo = "https://imgur.com/a6w6x9v.png" group-title = "ABERTOS", TV Brasil
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
+
+#EXTINF: -1 tvg-id = "Redebrasil.br" tvg-name = "TV Brasil Oeste" tvg-logo = "https://imgur.com/HjlG043.png" group-title = "ABERTOS", TV Brasil Oeste (Rede Brasil)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Sbt.br" tvg-name = "TV Cidade Verde (SBT PI)" tvg-logo = "https://imgur.com/8catiCV.png" tvg-shift = "0 "group-title =" ABERTOS ", TV Cidade Verde (SBT PI) 
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Tvmanchete" tvg-name = "TV Manchete" tvg-logo = "https://imgur.com/dQRl59I.png" tvg-shift = "0" group-title = "ABERTOS ", TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Tvmetropole.br" group-title = "ABERTOS" tvg-logo = "https://imgur.com/EhJNGIy.png", TV Metr pole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "Sbt.br" tvg-name = "SBT" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2. png "group-title =" ABERTOS ", SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+
+#EXTINF: -1 tvg-id = "Sbt.br" tvg-name = "SBT" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2. png "group-title =" ABERTOS ", SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF: -1 tvg-id = "Sbt.br" tvg-name = "SBT" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2. png "group-title =" ABERTOS ", SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+
+#EXTINF: -1 tvg-id = "Sbt.br" tvg-name = "SBT" tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2. png "group-title =" ABERTOS ", SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+
+#EXTINF: -1 tvg-id = "SBT" tvg-logo = "http://i.imgur.com/7SlZF9B.png" group-title = "ABERTOS", SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "SBT" tvg-logo = "http://i.imgur.com/7SlZF9B.png" group-title = "ABERTOS", SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF: -1 tvg-id = "SBT" tvg-logo = "http://i.imgur.com/7SlZF9B.png" group-title = "ABERTOS", SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+
+#EXTINF: -1 tvg-id = "SBT" tvg-logo = "http://i.imgur.com/7SlZF9B.png" group-title = "ABERTOS", SBT PE 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "band.br" tvg-name = "BAND" tvg-logo = "" group-title = "ABERTOS", BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/5UeQAk9.png" group-title = "ABERTOS", RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/5UeQAk9.png" group-title = "ABERTOS", RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/5UeQAk9.png" group-title = "ABERTOS", RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-logo = "http://i.imgur.com/5UeQAk9.png" group-title = "ABERTOS", RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Banda" tvg-logo = "https://imgur.com/HnL2uBA.png" tvg-shift = "0" group-title = "ABERTOS", Banda
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "CNN Brasil" tvg-logo = "https://i.imgur.com/iCsbnC8.png" tvg-shift = "0" group-title = " ABERTOS ", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Record News" tvg-logo = "https://imgur.com/mWX1ThW.png" tvg-shift = "0" group-title = "ABERTOS" , Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Gravar TV" tvg-logo = "https://imgur.com/Wfq5okf.png" tvg-shift = "0" group-title = "ABERTOS" , TV Record
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Rede Brasil" tvg-logo = "https://imgur.com/ZgnRZ47.png" group-title = "ABERTOS", Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "TV Brasil" tvg-logo = "https://imgur.com/a6w6x9v.png" group-title = "ABERTOS", TV Brasil
+https://video-rvd-df-gw-1-2.rnp.br/live/ocp (t (FlM1wl5KB-Y) r (fVR9ug) a (qLWpag) p (d (2xc) k (q8M) m ( xNer0KtizPDEQRmD_fYWEA) n (um (xQatgg) s (e0c) 'a (JrQ5mg) s (eyo))) s (s (-78) b (3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)' s (wnq) b (uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs) 's ( F8U) b (qX7axyDP)) m (0)) / index.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "TV Cultura PR (Catve)" tvg-logo = "https://imgur.com/5FSHzvg.png" group-title = "ABERTOS", TV Cultura PR (CATVE)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "TV Gazeta" tvg-logo = "https://imgur.com/lAXbfuU.png" tvg-shift = "0" group-title = "ABERTOS" , Tv gazeta
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
+
+#EXTINF:-1,DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/35.m3u8
+
+#EXTINF:-1,DISCOVERY ID
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/36.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
+
+#EXTINF:-1,DISCOVERY SCI
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+
+#EXTINF:-1,DISCOVERY TLC
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+
+#EXTINF:-1,DISCOVERY TURBO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/41.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/42.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/45.m3u8
+
+#EXTINF:-1,DISNEY JR
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+
+#EXTINF:-1,DISNEY XD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/47.m3u8
+
+#EXTINF:-1,ESPN 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
+
+#EXTINF:-1,ESPN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
+
+#EXTINF:-1,ESPN EXTRA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
+
+#EXTINF:-1,ESPN INT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
+
+#EXTINF:-1,FASHION TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/61.m3u8
+
+#EXTINF:-1,FISH TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/62.m3u8
+
+
+#EXTINF:-1,STAR LIFE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/64.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+
+#EXTINF:-1,STAR CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
+
+#EXTINF:-1,FUTURA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/67.m3u8
+
+#EXTINF:-1,FX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/68.m3u8
+
+#EXTINF:-1,GAZETA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/69.m3u8
+
+#EXTINF:-1,LOADING TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/142.m3u8
+
+#EXTINF:-1,MAP KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/143.m3u8
+
+#EXTINF:-1,MASTER TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/74.m3u8
+
+#EXTINF:-1,MEGA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/75.m3u8
+
+#EXTINF:-1,MTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
+
+#EXTINF:-1,MTV LIVE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/140.m3u8
+
+#EXTINF:-1,MUSIC BOX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/77.m3u8
+
+#EXTINF:-1,NAT GEO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/78.m3u8
+
+#EXTINF:-1,NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+
+#EXTINF:-1,PARAMOUNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/81.m3u8
+
+#EXTINF:-1,PRIME BOX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/83.m3u8
+
+#EXTINF:-1,RATIMBUM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
+
+#EXTINF:-1,RECORD MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/96.m3u8
+
+#EXTINF:-1,RECORD NEWS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/97.m3u8
+
+#EXTINF:-1,REDE GENESIS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/98.m3u8
+
+#EXTINF:-1,REDE METROPOLE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/99.m3u8
+
+#EXTINF:-1,REDE MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/101.m3u8
+
+#EXTINF:-1,REDE TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/102.m3u8
+
+
+
+
